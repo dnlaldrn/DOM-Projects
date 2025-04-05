@@ -1,0 +1,28 @@
+.subscribe{
+    background-color:black;
+    border:none;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.is-subscribed{
+    background-color: rgb(240, 240, 240);
+    color: black;
+}
+p{
+   font-size: large;
+   font-family: arial;
+}
+.cost{
+    padding: 13px 20px;
+    font-size: 15px;
+}.calculate-button{
+    padding:13px 20px;
+    margin-left: 10px;
+    background-color:green;
+    border: none;
+    color: white;
+    font-size: 15px;
+}
+
